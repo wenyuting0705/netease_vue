@@ -1,0 +1,21 @@
+export default {
+  newUserGift:{},
+  policyDescList:[],
+  tagList:[],
+  newItemList:[],
+  popularItemList:[],
+  topicList:[],
+  cateList:[],
+  categoryL1List:[],
+  banner:[],
+  column:[],
+  tenfifteen:[],
+  yxLook:{},
+  findMore:[],
+  recommendOne:{},
+  recommendTwo:{},
+  recommendThree:{},
+  zhenTwo:{},
+  zhenOne:{},
+  zhenThree:{}
+}
